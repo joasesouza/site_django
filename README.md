@@ -250,7 +250,7 @@ git clone git@github.com:celkecursos/master-week-python-e-django-two.git .
 
 Verificar o Python 3 Instalado.
 ```
-python3 --version
+python3 --version 
 ```
 
 Atualizar a lista de pacotes disponíveis.
